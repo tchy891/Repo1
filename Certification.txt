@@ -1,0 +1,27 @@
+Certified Tester Performance Testing (CT-PT):
+
+https://www.istqb.org/certifications/performance-tester
+
+Certified Tester Advanced Level Test Manager (CTAL-TM):
+
+https://www.istqb.org/certifications/test-manager
+
+Certified Tester Expert Level Test Management Strategic Test Management (CTEL-TM-SM):
+https://www.istqb.org/certifications/strategic-test-management
+
+Certified Tester Expert Level Test Management Operational Test Management (CTEL-TM-OTM):
+https://www.istqb.org/certifications/operational-test-management
+
+Certified Tester Foundation Level Agile Tester (CTFL-AT):
+https://www.istqb.org/certifications/agile-tester
+
+Certified Tester AI Testing (CT-AI):
+https://www.istqb.org/certifications/artificial-inteligence-tester
+
+
+Master JMeter from Basics (Performance + Load + API Testing):
+https://www.udemy.com/course/master-jmeter-from-basics-performance-load-api-testing/learn/lecture/8126200?start=0#overview
+
+Git and GitHub - Step by Step for Beginners:
+https://www.udemy.com/course/draft/1646770/learn/lecture/16106381?start=0#overview
+
